@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-demo",
+  "version": "1.0.0",
+  "description": "vue cli demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Chatles/vue-cli-demo.git"
+  },
+  "keywords": [
+    "vue-cli",
+    "vue"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chatles/vue-cli-demo/issues"
+  },
+  "homepage": "https://github.com/Chatles/vue-cli-demo#readme"
+}
