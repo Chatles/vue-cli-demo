@@ -2,6 +2,7 @@ import store from '@/store';
 import router from './index';
 
 const whiteList = [{name: 'login'}];
+/*
 router.beforeEach((to, from, next) => {
   if (store.getters.user.id) {
     if (to.path === '/login') {
@@ -18,3 +19,4 @@ router.beforeEach((to, from, next) => {
     // });
   }
 });
+*/
